@@ -59,9 +59,3 @@ It includes lead capture, rule-based qualification, opportunity management, auto
 I learn best by going beyond tutorials — understanding why a system works, building it myself, testing it, breaking it, debugging it, and documenting what I learn.
 
 For me, every project is both something to build and an opportunity to become a better engineer.
-
-##  Connect With Me
-
-Interested in software engineering, AI, automation, game development, and building technology-driven products.
-
-**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sumaya-khaled-809b7b380/)
